@@ -33,8 +33,7 @@ CHECKS_AND_ERRORS = [
     ),
     # Correct dtype
     (
-        lambda df: df["issue date"].dtype != "datetime64[ns]",
-        'Please change the dtype of the "issue date" column to datetime.',
+        lambda df: df["is2ype of the "issue date" column to datetime.',
         'You can do this by clicking on the Filter icon, and then selecting "datetime" from the "dtype" dropdown.'
 
     ),
