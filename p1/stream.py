@@ -65,5 +65,5 @@ def main():
 
 
 if __name__ == '__main__':
-    #create_model()
+    create_model()
     main()   
