@@ -2,3 +2,6 @@ streamlit
 pandas 
 mitosheet
 snowflake-snowpark-python[pandas]
+matplotlib
+tensorflow
+numpy
